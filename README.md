@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodwin Pieterse.
 - 👀 I’m interested in full stack web development as a career.
-- 🌱 I am currently working as an intern software developer with a main focus on PHP.
+- 🌱 I am currently working as a junior software developer.
 - 📫 You can reach me at johnrodwin@gmail.com.
 
 <!---
